@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Beer Quiz</string>
+    <string name="question_1a">\"Beer is intellectual. What a shame so many idiots drink it.\"</string>
+    <string name="question_1b">1. Who is the above quote attributed to?</string>
+    <string name="q_1_option_1">Benjamin Franklin</string>
+    <string name="q_1_option_2">Jim Koch</string>
+    <string name="q_1_option_3">Abraham Lincoln</string>
+    <string name="q_1_option_4">Ray Bradbury</string>
+    <string name="question_2">2. What does I.P.A. stand for?</string>
+    <string name="q_2_option_1">International Pale Ale</string>
+    <string name="q_2_option_2">India Pale Ale</string>
+    <string name="q_2_option_3">Irish Pub Ale</string>
+    <string name="q_2_option_4">Indiana Pilsner Ale</string>
+    <string name="question_3">3. What are the 4 main \"ingredients\" in beer?</string>
+    <string name="q_3_option_1">CO2</string>
+    <string name="q_3_option_2">Hops</string>
+    <string name="q_3_option_3">Cream of Tartar</string>
+    <string name="q_3_option_4">Grain</string>
+    <string name="q_3_option_5">Water</string>
+    <string name="q_3_option_6">Minerals</string>
+    <string name="q_3_option_7">Yeast</string>
+    <string name="q_3_option_8">Vinegar</string>
+    <string name="question_4">4. What is the foam on top of your beer called?</string>
+    <string name="q_4_option_1">Fizz</string>
+    <string name="q_4_option_2">Hair</string>
+    <string name="q_4_option_3">Bubbles</string>
+    <string name="q_4_option_4">Head</string>
+    <string name="question_5">5. What brewery does this logo belong to?</string>
+    <string name="brewery_name_hint">Brewery Name</string>
+    <string name="question_6">6. San Miguel originates from which country?</string>
+    <string name="q_6_option_1">USA</string>
+    <string name="q_6_option_2">Mexico</string>
+    <string name="q_6_option_3">Spain</string>
+    <string name="q_6_option_4">Philippines</string>
+    <string name="submit">Submit</string>
+    <string name="refill">Another round?</string>
+</resources>
